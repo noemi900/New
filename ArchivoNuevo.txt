@@ -1,0 +1,3 @@
+ArchivoNuevo.txt fue creado con el propósito de añadir nueva información en una nueva rama.
+
+Esta linea se hizo desde ramaNueva
